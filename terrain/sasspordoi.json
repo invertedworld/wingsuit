@@ -1,0 +1,16 @@
+{
+  "name": "Sass Pordoi",
+  "source": "AWS Terrarium (open) — Tilezen/Mapzen terrain tiles",
+  "width": 760,
+  "height": 768,
+  "mPerPx": 13.154694495241971,
+  "launchPx": 319.587448888924,
+  "launchPy": 383.62817214604,
+  "launchElev": 3107,
+  "bearingDeg": 90,
+  "exaggeration": 1.8,
+  "datum": 1900,
+  "tileZoom": 13,
+  "originGlobalPx": 1117159,
+  "originGlobalPy": 741412
+}
